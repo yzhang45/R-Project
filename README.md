@@ -2,6 +2,8 @@
 
 ## Picking the Data Set from https://www.kaggle.com/datasets 
 
+[Download the dataset from kaggle here](https://www.kaggle.com/spscientist/students-performance-in-exams)
+
 ## Preparing the data
 
 - import the dataset into R.
