@@ -22,7 +22,7 @@
 - Show how various sampling methods can be used on the data. Make some conclusions if these samples are used instead of the whole dataset. 
 
 ## Presenting the Project
-![Alt Text](https://imgur.com/kz0XDrU.gif)
+
 
 
 
